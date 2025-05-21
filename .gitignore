@@ -1,5 +1,3 @@
-PROG/
-*.pdf
-*.pdf
-*.class
-PROG/
+*
+!.gitignore
+!fichier.txt
